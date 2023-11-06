@@ -1,0 +1,11 @@
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+
+ <!-- <div class="left_item">
+                        <div class="left_box1">
+                            <h3></h3>
+                            <p></p>
+                        </div>
+                        <div class="left_box2"></div>
+                   </div> --> 
